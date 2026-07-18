@@ -1,6 +1,18 @@
 # ainu-morphology-data
 Morphological significant data of the Ainu language
 
+## Data
+
+- `noun_possessives.tsv` — 名詞の概念形と所属形（短形・長形）の対応表
+- `verb_plurals.tsv` — 動詞の単数形と複数形の対応表
+- `aeVp.tsv` — a=e-V-p 型の名詞化語彙
+- `aeVN.tsv` — a=e-V-N 型の名詞化語彙
+
+`source` 列は各行の出典を示す（空欄は出典未記載）。
+
 ## Bibliography
 
 - 田村 すゞ子（1996）『沙流方言辞典』 https://ainugo.nam.go.jp/dic
+- 中川 裕（1995）『アイヌ語千歳方言辞典』草風館
+- 萱野 茂（1996）『萱野茂のアイヌ語辞典』三省堂
+- 金澤 庄三郎（1898）『アイヌ語會話字典』金港堂
